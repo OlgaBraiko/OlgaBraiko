@@ -3,7 +3,7 @@
 - 💻My tech stack: JS, TS, React, Redux
 - 🤖 I’m currently working on a bot using the urban-bot library.
 - 🪴Hobbies other than coding: 🏋‍♂sports and 🐚history 
-- 📩Telegram @lakcer2 , Email  olgabraiko456@mail.ru
+- 📩Telegram @lakcer2 , Email  olga.braiko456@mail.ru
 
 
 <picture>
